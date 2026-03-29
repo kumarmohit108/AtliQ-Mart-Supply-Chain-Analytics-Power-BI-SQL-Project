@@ -47,7 +47,7 @@ To monitor and improve service level performance using key metrics:
 
 ### Executive Dashboard
 
-![Executive](assets/executive_dashboard.png)
+C:\Users\mahip\Desktop\Atliq Supply Chain Analysis\assets
 
 ### Service Level Analysis
 
